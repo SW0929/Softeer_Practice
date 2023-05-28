@@ -12,7 +12,7 @@ public class map_auto_creation_level2 {
         for (int i = 0; i < N; i++){
             init = init + (init-1);
         }
-        
+
         System.out.println(init*init);
     }
 }
